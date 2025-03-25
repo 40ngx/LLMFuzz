@@ -1,0 +1,782 @@
+{
+    "TIFFAccessTagMethods": {
+        "load_count": 1,
+        "store_count": 1
+    },
+    "TIFFCIELabToRGBInit": {
+        "load_count": 78,
+        "store_count": 25
+    },
+    "TIFFCIELabToXYZ": {
+        "load_count": 50,
+        "store_count": 25
+    },
+    "TIFFCheckTile": {
+        "load_count": 40,
+        "store_count": 11
+    },
+    "TIFFCheckpointDirectory": {
+        "load_count": 2786,
+        "store_count": 1005
+    },
+    "TIFFCleanup": {
+        "load_count": 98,
+        "store_count": 12
+    },
+    "TIFFClientOpen": {
+        "load_count": 312,
+        "store_count": 98
+    },
+    "TIFFClientOpenExt": {
+        "load_count": 468,
+        "store_count": 180
+    },
+    "TIFFClientdata": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFClose": {
+        "load_count": 106,
+        "store_count": 15
+    },
+    "TIFFComputeStrip": {
+        "load_count": 22,
+        "store_count": 9
+    },
+    "TIFFComputeTile": {
+        "load_count": 67,
+        "store_count": 19
+    },
+    "TIFFCreateCustomDirectory": {
+        "load_count": 282,
+        "store_count": 105
+    },
+    "TIFFCreateDirectory": {
+        "load_count": 199,
+        "store_count": 80
+    },
+    "TIFFCreateEXIFDirectory": {
+        "load_count": 284,
+        "store_count": 107
+    },
+    "TIFFCreateGPSDirectory": {
+        "load_count": 284,
+        "store_count": 107
+    },
+    "TIFFCurrentDirOffset": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFCurrentDirectory": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFCurrentRow": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFCurrentStrip": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFCurrentTile": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFDataWidth": {
+        "load_count": 2,
+        "store_count": 6
+    },
+    "TIFFDefaultStripSize": {
+        "load_count": 4,
+        "store_count": 2
+    },
+    "TIFFDefaultTileSize": {
+        "load_count": 5,
+        "store_count": 3
+    },
+    "TIFFDeferStrileArrayWriting": {
+        "load_count": 10,
+        "store_count": 5
+    },
+    "TIFFError": {
+        "load_count": 8,
+        "store_count": 2
+    },
+    "TIFFErrorExt": {
+        "load_count": 9,
+        "store_count": 3
+    },
+    "TIFFErrorExtR": {
+        "load_count": 22,
+        "store_count": 4
+    },
+    "TIFFFdOpen": {
+        "load_count": 12,
+        "store_count": 10
+    },
+    "TIFFFdOpenExt": {
+        "load_count": 9,
+        "store_count": 7
+    },
+    "TIFFFieldDataType": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFFieldIsAnonymous": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFFieldName": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFFieldPassCount": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFFieldReadCount": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFFieldSetGetCountSize": {
+        "load_count": 4,
+        "store_count": 5
+    },
+    "TIFFFieldSetGetSize": {
+        "load_count": 4,
+        "store_count": 8
+    },
+    "TIFFFieldTag": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFFieldWithName": {
+        "load_count": 53,
+        "store_count": 18
+    },
+    "TIFFFieldWithTag": {
+        "load_count": 54,
+        "store_count": 18
+    },
+    "TIFFFieldWriteCount": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFFileName": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFFileno": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFFindCODEC": {
+        "load_count": 18,
+        "store_count": 8
+    },
+    "TIFFFindField": {
+        "load_count": 26,
+        "store_count": 11
+    },
+    "TIFFFlush": {
+        "load_count": 77,
+        "store_count": 23
+    },
+    "TIFFFlushData": {
+        "load_count": 11,
+        "store_count": 5
+    },
+    "TIFFForceStrileArrayWriting": {
+        "load_count": 691,
+        "store_count": 175
+    },
+    "TIFFFreeDirectory": {
+        "load_count": 132,
+        "store_count": 37
+    },
+    "TIFFGetBitRevTable": {
+        "load_count": 1,
+        "store_count": 1
+    },
+    "TIFFGetClientInfo": {
+        "load_count": 12,
+        "store_count": 6
+    },
+    "TIFFGetCloseProc": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFGetConfiguredCODECs": {
+        "load_count": 53,
+        "store_count": 33
+    },
+    "TIFFGetField": {
+        "load_count": 18,
+        "store_count": 7
+    },
+    "TIFFGetFieldDefaulted": {
+        "load_count": 369,
+        "store_count": 184
+    },
+    "TIFFGetMapFileProc": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFGetMode": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFGetReadProc": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFGetSeekProc": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFGetSizeProc": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFGetStrileByteCount": {
+        "load_count": 8,
+        "store_count": 6
+    },
+    "TIFFGetStrileByteCountWithErr": {
+        "load_count": 171,
+        "store_count": 59
+    },
+    "TIFFGetStrileOffset": {
+        "load_count": 8,
+        "store_count": 6
+    },
+    "TIFFGetStrileOffsetWithErr": {
+        "load_count": 38,
+        "store_count": 17
+    },
+    "TIFFGetTagListCount": {
+        "load_count": 3,
+        "store_count": 2
+    },
+    "TIFFGetTagListEntry": {
+        "load_count": 11,
+        "store_count": 5
+    },
+    "TIFFGetUnmapFileProc": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFGetVersion": {
+        "load_count": 0,
+        "store_count": 0
+    },
+    "TIFFGetWriteProc": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFIsBigEndian": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFIsBigTIFF": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFIsByteSwapped": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFIsCODECConfigured": {
+        "load_count": 7,
+        "store_count": 6
+    },
+    "TIFFIsMSB2LSB": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFIsTiled": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFIsUpSampled": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFLastDirectory": {
+        "load_count": 2,
+        "store_count": 1
+    },
+    "TIFFMergeFieldInfo": {
+        "load_count": 384,
+        "store_count": 201
+    },
+    "TIFFNumberOfDirectories": {
+        "load_count": 214,
+        "store_count": 48
+    },
+    "TIFFNumberOfStrips": {
+        "load_count": 55,
+        "store_count": 16
+    },
+    "TIFFNumberOfTiles": {
+        "load_count": 76,
+        "store_count": 28
+    },
+    "TIFFOpen": {
+        "load_count": 23,
+        "store_count": 11
+    },
+    "TIFFOpenExt": {
+        "load_count": 30,
+        "store_count": 16
+    },
+    "TIFFOpenOptionsAlloc": {
+        "load_count": 6,
+        "store_count": 5
+    },
+    "TIFFOpenOptionsFree": {
+        "load_count": 2,
+        "store_count": 2
+    },
+    "TIFFOpenOptionsSetErrorHandlerExtR": {
+        "load_count": 4,
+        "store_count": 5
+    },
+    "TIFFOpenOptionsSetMaxCumulatedMemAlloc": {
+        "load_count": 2,
+        "store_count": 3
+    },
+    "TIFFOpenOptionsSetMaxSingleMemAlloc": {
+        "load_count": 2,
+        "store_count": 3
+    },
+    "TIFFOpenOptionsSetWarnAboutUnknownTags": {
+        "load_count": 2,
+        "store_count": 3
+    },
+    "TIFFOpenOptionsSetWarningHandlerExtR": {
+        "load_count": 4,
+        "store_count": 5
+    },
+    "TIFFPrintDirectory": {
+        "load_count": 721,
+        "store_count": 103
+    },
+    "TIFFRGBAImageBegin": {
+        "load_count": 3441,
+        "store_count": 1625
+    },
+    "TIFFRGBAImageEnd": {
+        "load_count": 66,
+        "store_count": 11
+    },
+    "TIFFRGBAImageGet": {
+        "load_count": 19,
+        "store_count": 7
+    },
+    "TIFFRGBAImageOK": {
+        "load_count": 452,
+        "store_count": 208
+    },
+    "TIFFRasterScanlineSize": {
+        "load_count": 59,
+        "store_count": 31
+    },
+    "TIFFRasterScanlineSize64": {
+        "load_count": 49,
+        "store_count": 24
+    },
+    "TIFFRawStripSize": {
+        "load_count": 15,
+        "store_count": 10
+    },
+    "TIFFRawStripSize64": {
+        "load_count": 7,
+        "store_count": 4
+    },
+    "TIFFReadBufferSetup": {
+        "load_count": 38,
+        "store_count": 16
+    },
+    "TIFFReadCustomDirectory": {
+        "load_count": 16849,
+        "store_count": 7322
+    },
+    "TIFFReadDirectory": {
+        "load_count": 6398,
+        "store_count": 1644
+    },
+    "TIFFReadEXIFDirectory": {
+        "load_count": 16851,
+        "store_count": 7324
+    },
+    "TIFFReadEncodedStrip": {
+        "load_count": 732,
+        "store_count": 251
+    },
+    "TIFFReadEncodedTile": {
+        "load_count": 303,
+        "store_count": 82
+    },
+    "TIFFReadFromUserBuffer": {
+        "load_count": 295,
+        "store_count": 99
+    },
+    "TIFFReadGPSDirectory": {
+        "load_count": 16851,
+        "store_count": 7324
+    },
+    "TIFFReadRGBAImage": {
+        "load_count": 3543,
+        "store_count": 1657
+    },
+    "TIFFReadRGBAImageOriented": {
+        "load_count": 3538,
+        "store_count": 1652
+    },
+    "TIFFReadRGBAStrip": {
+        "load_count": 34,
+        "store_count": 18
+    },
+    "TIFFReadRGBAStripExt": {
+        "load_count": 3992,
+        "store_count": 1853
+    },
+    "TIFFReadRGBATile": {
+        "load_count": 81,
+        "store_count": 27
+    },
+    "TIFFReadRGBATileExt": {
+        "load_count": 4413,
+        "store_count": 2051
+    },
+    "TIFFReadRawStrip": {
+        "load_count": 115,
+        "store_count": 45
+    },
+    "TIFFReadRawTile": {
+        "load_count": 124,
+        "store_count": 43
+    },
+    "TIFFReadScanline": {
+        "load_count": 126,
+        "store_count": 34
+    },
+    "TIFFReadTile": {
+        "load_count": 198,
+        "store_count": 58
+    },
+    "TIFFRegisterCODEC": {
+        "load_count": 34,
+        "store_count": 15
+    },
+    "TIFFReverseBits": {
+        "load_count": 41,
+        "store_count": 15
+    },
+    "TIFFRewriteDirectory": {
+        "load_count": 3855,
+        "store_count": 1189
+    },
+    "TIFFScanlineSize": {
+        "load_count": 117,
+        "store_count": 55
+    },
+    "TIFFScanlineSize64": {
+        "load_count": 107,
+        "store_count": 48
+    },
+    "TIFFSetClientInfo": {
+        "load_count": 28,
+        "store_count": 11
+    },
+    "TIFFSetClientdata": {
+        "load_count": 5,
+        "store_count": 4
+    },
+    "TIFFSetCompressionScheme": {
+        "load_count": 46,
+        "store_count": 32
+    },
+    "TIFFSetDirectory": {
+        "load_count": 478,
+        "store_count": 169
+    },
+    "TIFFSetErrorHandler": {
+        "load_count": 3,
+        "store_count": 3
+    },
+    "TIFFSetErrorHandlerExt": {
+        "load_count": 3,
+        "store_count": 3
+    },
+    "TIFFSetField": {
+        "load_count": 10,
+        "store_count": 6
+    },
+    "TIFFSetFileName": {
+        "load_count": 5,
+        "store_count": 4
+    },
+    "TIFFSetFileno": {
+        "load_count": 5,
+        "store_count": 4
+    },
+    "TIFFSetMode": {
+        "load_count": 5,
+        "store_count": 4
+    },
+    "TIFFSetSubDirectory": {
+        "load_count": 30,
+        "store_count": 16
+    },
+    "TIFFSetTagExtender": {
+        "load_count": 3,
+        "store_count": 3
+    },
+    "TIFFSetWarningHandler": {
+        "load_count": 3,
+        "store_count": 3
+    },
+    "TIFFSetWarningHandlerExt": {
+        "load_count": 3,
+        "store_count": 3
+    },
+    "TIFFSetWriteOffset": {
+        "load_count": 3,
+        "store_count": 4
+    },
+    "TIFFSetupStrips": {
+        "load_count": 277,
+        "store_count": 101
+    },
+    "TIFFStripSize": {
+        "load_count": 197,
+        "store_count": 78
+    },
+    "TIFFStripSize64": {
+        "load_count": 187,
+        "store_count": 71
+    },
+    "TIFFSwabArrayOfDouble": {
+        "load_count": 31,
+        "store_count": 17
+    },
+    "TIFFSwabArrayOfFloat": {
+        "load_count": 17,
+        "store_count": 11
+    },
+    "TIFFSwabArrayOfLong": {
+        "load_count": 17,
+        "store_count": 11
+    },
+    "TIFFSwabArrayOfLong8": {
+        "load_count": 31,
+        "store_count": 17
+    },
+    "TIFFSwabArrayOfShort": {
+        "load_count": 10,
+        "store_count": 8
+    },
+    "TIFFSwabArrayOfTriples": {
+        "load_count": 10,
+        "store_count": 8
+    },
+    "TIFFSwabDouble": {
+        "load_count": 29,
+        "store_count": 14
+    },
+    "TIFFSwabFloat": {
+        "load_count": 15,
+        "store_count": 8
+    },
+    "TIFFSwabLong": {
+        "load_count": 15,
+        "store_count": 8
+    },
+    "TIFFSwabLong8": {
+        "load_count": 29,
+        "store_count": 14
+    },
+    "TIFFSwabShort": {
+        "load_count": 8,
+        "store_count": 5
+    },
+    "TIFFTileRowSize": {
+        "load_count": 56,
+        "store_count": 29
+    },
+    "TIFFTileRowSize64": {
+        "load_count": 46,
+        "store_count": 22
+    },
+    "TIFFTileSize": {
+        "load_count": 177,
+        "store_count": 81
+    },
+    "TIFFTileSize64": {
+        "load_count": 167,
+        "store_count": 74
+    },
+    "TIFFUnRegisterCODEC": {
+        "load_count": 21,
+        "store_count": 8
+    },
+    "TIFFUnlinkDirectory": {
+        "load_count": 1188,
+        "store_count": 432
+    },
+    "TIFFUnsetField": {
+        "load_count": 50,
+        "store_count": 17
+    },
+    "TIFFVGetField": {
+        "load_count": 41,
+        "store_count": 15
+    },
+    "TIFFVGetFieldDefaulted": {
+        "load_count": 366,
+        "store_count": 181
+    },
+    "TIFFVSetField": {
+        "load_count": 26,
+        "store_count": 9
+    },
+    "TIFFVStripSize": {
+        "load_count": 188,
+        "store_count": 75
+    },
+    "TIFFVStripSize64": {
+        "load_count": 177,
+        "store_count": 67
+    },
+    "TIFFVTileSize": {
+        "load_count": 175,
+        "store_count": 81
+    },
+    "TIFFVTileSize64": {
+        "load_count": 164,
+        "store_count": 73
+    },
+    "TIFFWarning": {
+        "load_count": 8,
+        "store_count": 2
+    },
+    "TIFFWarningExt": {
+        "load_count": 9,
+        "store_count": 3
+    },
+    "TIFFWarningExtR": {
+        "load_count": 22,
+        "store_count": 4
+    },
+    "TIFFWriteBufferSetup": {
+        "load_count": 238,
+        "store_count": 97
+    },
+    "TIFFWriteCheck": {
+        "load_count": 418,
+        "store_count": 164
+    },
+    "TIFFWriteCustomDirectory": {
+        "load_count": 2778,
+        "store_count": 1005
+    },
+    "TIFFWriteDirectory": {
+        "load_count": 815,
+        "store_count": 90
+    },
+    "TIFFWriteEncodedStrip": {
+        "load_count": 1309,
+        "store_count": 435
+    },
+    "TIFFWriteEncodedTile": {
+        "load_count": 1557,
+        "store_count": 528
+    },
+    "TIFFWriteRawStrip": {
+        "load_count": 728,
+        "store_count": 247
+    },
+    "TIFFWriteRawTile": {
+        "load_count": 646,
+        "store_count": 221
+    },
+    "TIFFWriteScanline": {
+        "load_count": 272,
+        "store_count": 82
+    },
+    "TIFFWriteTile": {
+        "load_count": 262,
+        "store_count": 72
+    },
+    "TIFFXYZToRGB": {
+        "load_count": 154,
+        "store_count": 29
+    },
+    "TIFFYCbCrToRGBInit": {
+        "load_count": 139,
+        "store_count": 57
+    },
+    "TIFFYCbCrtoRGB": {
+        "load_count": 48,
+        "store_count": 16
+    },
+    "_TIFFCheckMalloc": {
+        "load_count": 36,
+        "store_count": 19
+    },
+    "_TIFFCheckRealloc": {
+        "load_count": 32,
+        "store_count": 15
+    },
+    "_TIFFClampDoubleToUInt32": {
+        "load_count": 6,
+        "store_count": 4
+    },
+    "_TIFFGetExifFields": {
+        "load_count": 0,
+        "store_count": 0
+    },
+    "_TIFFGetGpsFields": {
+        "load_count": 0,
+        "store_count": 0
+    },
+    "_TIFFMultiply32": {
+        "load_count": 9,
+        "store_count": 6
+    },
+    "_TIFFMultiply64": {
+        "load_count": 9,
+        "store_count": 6
+    },
+    "_TIFFRewriteField": {
+        "load_count": 723,
+        "store_count": 372
+    },
+    "_TIFFfree": {
+        "load_count": 1,
+        "store_count": 1
+    },
+    "_TIFFmalloc": {
+        "load_count": 3,
+        "store_count": 3
+    },
+    "_TIFFmemcmp": {
+        "load_count": 3,
+        "store_count": 3
+    },
+    "_TIFFmemcpy": {
+        "load_count": 3,
+        "store_count": 3
+    },
+    "_TIFFmemset": {
+        "load_count": 3,
+        "store_count": 3
+    },
+    "_TIFFrealloc": {
+        "load_count": 2,
+        "store_count": 2
+    }
+}

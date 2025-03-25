@@ -1,0 +1,10 @@
+TIFFReadDirectory
+TIFFWriteDirectory
+_TIFFmemcpy
+TIFFPrintDirectory
+TIFFReadRGBATileExt
+TIFFReadRGBATile
+TIFFClose
+TIFFGetField
+TIFFWriteScanline
+TIFFRGBAImageGet

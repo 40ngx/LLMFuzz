@@ -1,0 +1,6 @@
+    - <tiffio.h>
+    - <tiffio.hxx>
+    - <stdlib.h>
+    - <string.h>
+    - <stdint.h>
+    - <sstream>
